@@ -18,7 +18,7 @@ public void draw()
 		double dNum = Double.parseDouble(digits);
 		if(isPrime(dNum) == true)
 		{
-			System.out.println(dNum);
+			System.out.println(digits+".com");
 			break;
 		}
 	}
